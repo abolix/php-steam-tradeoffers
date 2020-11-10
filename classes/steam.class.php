@@ -424,3 +424,4 @@ class SteamTrade
 		return $items;
 	}
 }
+
